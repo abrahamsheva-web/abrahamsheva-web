@@ -1,16 +1,16 @@
 # 💫 Hi 👋, I'm Ebi Ram
 **A passionate Cloud Engineer || DevOps Engineer || Network Engineer**
 
-Email Me 👉 ✉️ **ebi.hasani66@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **abraham.sheva@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ebi1366) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ebrahim-hasani-083096b3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ebi.hasani66@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ebi1366) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ebrahim-hasani-083096b3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abraham.sheva@gmail.com) 
 
 - 🔭 **I’m currently working on:** Smart irrigation of paddy with IOT
 - 🌱 **I’m currently learning:** Raspberry Pi
 - 👯 **I’m looking to collaborate on:** using raspberry pi for my project
 - 🤔 **I’m looking for help with:** my project
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** ebi.hasani66@gmail.com
+- 📫 **How to reach me:** abraham.sheva@gmail.com
 - 😄 **Pronouns:** Ebi Ram
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
