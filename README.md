@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **ebi.hasani66@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ebi1366) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ebrahim-hasani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ebi.hasani66@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ebi1366) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ebrahim-hasani-083096b3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ebi.hasani66@gmail.com) 
 
 - 🔭 **I’m currently working on:** Smart irrigation of paddy with IOT
 - 🌱 **I’m currently learning:** Raspberry Pi
